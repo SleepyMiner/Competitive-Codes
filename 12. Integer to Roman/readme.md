@@ -47,7 +47,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 - $1 <= num <= 3999$
 
-### Solution Explained ([Solution](/12.%20Integer%20to%20Roman)):
+### Solution Explained ([Solution](main.cpp)):
 
 1. **Initialization:**
    - Initialize an empty string `roman` to store the Roman numeral representation of the given integer.
