@@ -8,21 +8,21 @@ An integer ```n``` is a power of four, if there exists an integer ```x``` such t
 
 ### Example 1:
 
-> Input: n = 16
+> Input: n = 16<br/>
 > Output: true
-> Example 2:
+### Example 2:
 
-> Input: n = 5
+> Input: n = 5<br/>
 > Output: false
-> Example 3:
+### Example 3:
 
-> Input: n = 1
+> Input: n = 1<br/>
 > Output: true
  
 
 ### Constraints:
 
->``` -2^31 <= n <= 2^31 - 1```
+- $-2^{31} <= n <= 2^{31} - 1$
 
 ## Solution Explained 
 <ol>
